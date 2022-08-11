@@ -1,4 +1,4 @@
-# CS 537 Spring 2020, Project 3: xv6 Memory sub-system
+# xv6 Memory sub-system
 ## p3a
 ### part1:
 mprotect
